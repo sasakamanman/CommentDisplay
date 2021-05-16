@@ -11,7 +11,6 @@
 メインウィンドウをアクティブにすると、透過ウィンドウも操作可能になります。
 
 現状はニコ生のみに対応しています。
-また、設定は透過ウィンドウの表示色のみ可能です。
 
 バグ報告は[こちら](https://twitter.com/MvqfUTIBum3Jonc)にお願いします。
 
@@ -31,7 +30,8 @@ Mac版 準備中
 
 ### ライセンス Licence
 当ソフトウェアはドネーションウェアです。営利・非営利問わず無償で使用できます。
-気に入っていただいた場合は、寄付も受け付けております（準備中）。
+気に入っていただいた場合は、amazon ギフト券にて寄付を受け付けています。
+https://www.amazon.jp/hz/wishlist/ls/1CCUYA6P6H71Y?ref_=wl_share
 
 ### 著者 Author
 [sasakaman](https://github.com/sasakamanman)
